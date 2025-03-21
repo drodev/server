@@ -1,0 +1,4 @@
+﻿  Util.lib(NtlStringHandler.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  QueryServer.vcxproj -> C:\Users\Owner\workspaceOpenDBO\OpenDBO-Core\DboServer\ExecutionEnv\QueryServer.exe
